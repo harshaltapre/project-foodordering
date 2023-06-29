@@ -3,6 +3,7 @@
   }
   body {
     font-family: 'Rubik', sans-serif;
+      display: flex;
     margin: 0;
     padding: 0;
   }
